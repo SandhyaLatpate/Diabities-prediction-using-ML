@@ -1,2 +1,2 @@
-Linear Regression 
+## Linear Regression 
 Linear Regression implimentation on boston dataset
