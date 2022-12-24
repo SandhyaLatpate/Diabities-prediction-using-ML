@@ -1,3 +1,2 @@
-# Velocity
-Machine learning Project
-Linear
+Linear Regression 
+Linear Regression implimentation on boston dataset
